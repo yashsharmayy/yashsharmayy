@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Sharma
 
-<!--
-**yashsharmayy/yashsharmayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Developer | ⚛️ React Learner | 🚀 Future Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Student passionate about technology
+* 💻 Building modern web applications
+* 📚 Currently learning **DSA (Data Structures & Algorithms)**
+* 🔥 Focused on improving skills daily
+
+---
+
+## 🛠️ Tech Stack
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* ⚛️ React
+* 🎯 Tailwind CSS
+* 🎞️ GSAP (Animations)
+* 🗄️ SQL
+* 🔧 Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+* Advanced JavaScript
+* React.js (Projects)
+* DSA (Beginner Level)
+
+---
+
+## 📌 Projects
+
+* 🔹 Gym Bro Website *(Freelance Project)*
+* 🔹 Portfolio Website *(Coming Soon)*
+* 🔹 DSA in JavaScript *(Coming Soon)*
+
+---
+
+## 🎯 Goals
+
+* 📈 Become a Full Stack Developer
+* 💡 Build high-quality real-world projects
+* 🚀 Crack internships & opportunities
+
+---
+
+## 📊 GitHub Stats
+
+*(Will update as I grow 🚀)*
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: Yashsharmayy1804@gmail.com
+* 💼 LinkedIn: (add link)
+
+---
+
+## ⚡ Fun Fact
+
+I love creating **interactive and animated websites using GSAP** 🎞️
