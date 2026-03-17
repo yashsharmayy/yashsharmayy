@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yash Sharma
 
-💻 Aspiring Developer | ⚛️ React Learner | 🚀 Future Software Engineer
+Aspiring Developer 💻 | Learning JavaScript & React ⚛️ | Starting DSA journey 🚀
 
 ---
 
