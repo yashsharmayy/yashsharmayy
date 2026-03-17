@@ -48,21 +48,10 @@
 * 💡 Build high-quality real-world projects
 * 🚀 Crack internships & opportunities
 
----
 
-## 📊 GitHub Stats
-
-*(Will update as I grow 🚀)*
-
----
 
 ## 📫 Connect With Me
 
 * 📧 Email: Yashsharmayy1804@gmail.com
 * 💼 LinkedIn: (add link)
 
----
-
-## ⚡ Fun Fact
-
-I love creating **interactive and animated websites using GSAP** 🎞️
