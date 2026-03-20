@@ -52,6 +52,7 @@ Aspiring Developer 💻 | Learning JavaScript & React ⚛️ | Starting DSA jour
 
 ## 📫 Connect With Me
 
-* 📧 Email: Yashsharmayy1804@gmail.com
-* 💼 LinkedIn: (add link)
+* 📧 Email: yashsharmayy1804@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/yash-sharma-b4a3923b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
 
