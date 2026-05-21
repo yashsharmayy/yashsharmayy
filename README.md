@@ -36,9 +36,9 @@ Aspiring Developer 💻 | Learning JavaScript & React ⚛️ | Starting DSA jour
 
 ## 📌 Projects
 
-* 🔹 Gym Bro Website *(Freelance Project)*
+* 🔹 Gym Bro Website *([Freelance Project] (https://yashsharmayy.github.io/GYM_BRO/) )*
 * 🔹 Portfolio Website *([Portfolio](https://yashsharmayy.github.io/MyPortfolio/))*
-* 🔹 DSA in JavaScript *(Coming Soon)*
+* 🔹 Aurum Luxe *(Coming Soon)*
 
 ---
 
